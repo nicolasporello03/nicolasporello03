@@ -27,7 +27,7 @@ Soy un estudiante dedicado al análisis de datos con un enfoque en transformar g
   
 ## 📚 Cursos Relevantes
 
- **[analista de datos]** – [DataCamp]
+ **[Analista de Datos]** – [DataCamp]
  
  [*Python*](https://www.datacamp.com/completed/statement-of-accomplishment/track/4c761c687556e706a76d402e86566631b182430d)
  
