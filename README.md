@@ -1,5 +1,5 @@
 # 👋 Hola, soy Nicolás Porello
-📊 Data Analyst | 📈 Power BI | 📂 SQL | 🧠 Machine Learning  
+📊 Data Analyst | 📈 Power BI | 📂 SQL | 🐍 Python   
 💡 Apasionado por los datos y la toma de decisiones basada en información.  
 
 🔹 **Habilidades:**  
