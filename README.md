@@ -18,9 +18,24 @@ Soy un estudiante dedicado al análisis de datos con un enfoque en transformar g
 | **Bases de Datos**             | MySQL, PostgreSQL, SQLite |
 | **Otros**                      | Git, GitHub, Jupyter Notebooks, Excel 
 
+## 🎓 Formación Académica
+
+- **[UTN]** - *Tecnicatura en Programacion (en curso)*  
+  *una materia faltante*
+  
+## 📚 Cursos Relevantes
+
+ **[analista de datos]** – [DataCamp]
+ 
+ *[<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>](https://www.datacamp.com/completed/statement-of-accomplishment/track/4c761c687556e706a76d402e86566631b182430d)  [<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>](https://www.datacamp.com/completed/statement-of-accomplishment/track/4c761c687556e706a76d402e86566631b182430d)  [<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>](https://www.datacamp.com/completed/statement-of-accomplishment/track/4c761c687556e706a76d402e86566631b182430d)*
+
+
+
+
 ## 🔗 Conéctame
 
 - **LinkedIn:** [tu-linkedin](https://www.linkedin.com/in/tu-linkedin)
 - **Correo:** [tuemail@dominio.com](mailto:tuemail@dominio.com)
+-  **cv:** [tuemail@dominio.com](mailto:tuemail@dominio.com)
 
 ¡Gracias por visitar mi perfil! 🚀
