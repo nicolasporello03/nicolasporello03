@@ -9,6 +9,10 @@ Soy un estudiante dedicado al análisis de datos con un enfoque en transformar g
 - 💻 Consultas SQL y trabajo con bases de datos.
 - 🎓 Estudiante en la Tecnicatura Universitaria en Programacion(UTN|Villa Maria).
 
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/fb73b977-a5b2-4c06-a927-ac2cdb969909" alt="Imagen">
+</p>
+
 ## 🛠️ Tecnologías y Herramientas
 
 | **Lenguajes de Programación** | Python,SQL |
@@ -17,6 +21,8 @@ Soy un estudiante dedicado al análisis de datos con un enfoque en transformar g
 | **Librerías de Python**        | Pandas, NumPy, Matplotlib, Seaborn |
 | **Bases de Datos**             | MySQL, PostgreSQL, SQLite |
 | **Otros**                      | Git, GitHub, Jupyter Notebooks, Excel 
+
+
 
 ## 🎓 Formación Académica
 
