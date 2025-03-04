@@ -1,6 +1,5 @@
 # Hola, soy Nicolas Porello 👋
 Soy un estudiante dedicado al análisis de datos con un enfoque en transformar grandes volúmenes de información en insights valiosos. Mi mayor fortaleza radica en la capacidad de encontrar respuestas precisas a preguntas complejas utilizando datos y visualizaciones gráficas. Me especializo en el Análisis Exploratorio de Datos (EDA) para identificar patrones ocultos, tendencias y correlaciones que guían decisiones estratégicas informadas
-
 ## 🚀 Sobre Mí
 
 - 🔍 Análisis de datos, limpieza y visualización.
