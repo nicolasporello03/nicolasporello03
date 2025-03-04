@@ -35,8 +35,8 @@ Soy un estudiante dedicado al análisis de datos con un enfoque en transformar g
  [*Power Bi*](https://www.datacamp.com/completed/statement-of-accomplishment/track/ef80e427b4fda9c9cb42357b78b6a6549d160165)
 ## 🔗 Conéctame
 
-- **LinkedIn:** [tu-linkedin](https://www.linkedin.com/in/tu-linkedin)
-- **Correo:** [tuemail@dominio.com](mailto:tuemail@dominio.com)
--  **cv:** [tuemail@dominio.com](mailto:tuemail@dominio.com)
+-  [**LINKEDIN**](https://www.linkedin.com/in/tu-linkedin)
+-  [**CORREO**](mailto:tuemail@dominio.com)
+-  [**CV** ](https://github.com/nicolasporello03/cv-NicolasPorello/raw/6a7574b140dfcb272006cc18cf26cf5f203b98c5/Nicolas_Porello_CV.pdf)
 
 ¡Gracias por visitar mi perfil! 🚀
