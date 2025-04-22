@@ -37,6 +37,6 @@ Soy un estudiante dedicado al análisis de datos con un enfoque en transformar g
 
 -  [**LINKEDIN**](https://www.linkedin.com/in/nicolas-porello-1588a0354/)
 -  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicolasporello03@gmail.com&su=Asunto&body=Cuerpo del mensaje" target="_blank">**ENVIAR CORREO**</a>
--  [**Descargar CV** ](https://github.com/nicolasporello03/cv-NicolasPorello/raw/e9de82ee0f7a8521ce06f2ecf1d5befa16647d7d/Nicolas_Porello_CV_.pdf)
+-  [**Descargar CV** ](https://github.com/nicolasporello03/cv-NicolasPorello/raw/e9de82ee0f7a8521ce06f2ecf1d5befa16647d7d/NicolasPorelloCV.pdf)
 
 ¡Gracias por visitar mi perfil! 🚀
